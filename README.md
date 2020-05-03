@@ -1,2 +1,2 @@
-# Dimitries
+# Dimitrios
 Apache Kafka Project
